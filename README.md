@@ -35,7 +35,7 @@ The goal of this script is to prepare tidy data from data collected from the acc
 
 #### 6. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
    
-   Aggregate data by activity, write out the aggregated result to 'output.txt'
+   Aggregate data mean by activity, write out the aggregated result to 'output.txt'
     
 
 ## execute the script
